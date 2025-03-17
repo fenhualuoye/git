@@ -1,0 +1,15 @@
+.wrapper{
+    margin:0 auto;
+    width: 1200px;
+}
+body{
+    background-color: #f3f5f7;
+}
+.head .guide{
+    display: flex;
+}
+.underline{
+    text-decoration: none;
+    line-height: 50px;
+    padding-left:30px;
+}
